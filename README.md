@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hashim</h1>
-<h3 align="center">A Software Engineer with a passion for Game Programming, Backend Development, and Systems Design</h3>
+<h1 align="center">Hi 👋, I'm Bassam</h1>
+<h3 align="center">A Software Engineer with a passion for Frontend Development, Backend Development, and Systems Design</h3>
 
 <div align="center">
 
